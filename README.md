@@ -4,7 +4,7 @@ Pictureex Core integration/staging repository
 <br>
 Pictureex (PIC) is a transparent, community-governed cryptocurrency aimed at preserving what makes Picture-eX unique while offering an alternative way for the average investor to get involved.
 
-![Pictureex Logo](https://github.com/PictureEX/PIC/blob/master/src/qt/res/images/_pictureex_logo_horizontal.png)
+![Pictureex Logo](https://github.com/PictureEX/Picture-ex-core/blob/master/src/qt/res/images/pictureex_logo_horizontal.png)
 
 
 You bring value to the long term success of the project, not how much money you have in your pocket. Become an integral part of the network with minimal investment.
